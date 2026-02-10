@@ -115,9 +115,6 @@ casino.*.betmgm.com
 *.indeedflex.com
 *.indeed.tech
 *.indeed.net
-*.intercomassets.com
-*.intercomcdn.com
-*.mobile-messenger.intercom.com
 *.jora.com
 *.jora.xyz
 *.thuisbezorgd.nl
@@ -1551,14 +1548,6 @@ indeed.com
 apis.indeed.com
 resume.com
 wowjobs.ca
-developers.intercom.com
-api.intercom.com
-api.intercom.io
-app.intercom.com
-app.intercom.io
-intercom.com
-mcp.intercom.com
-api-iam.intercom.io
 carsdirect.com
 pets.webmd.com
 member.webmd.com
@@ -1864,11 +1853,6 @@ openai.org
 openai.com
 platform.openai.com
 sora.chatgpt.com
-opensea.io
-wallet.opensea.io
-io.opensea
-mcp.opensea.io
-etherscan.io
 auth.opera.com
 accounts.opera.com
 flow.opera.com
@@ -2045,8 +2029,6 @@ skroutz.gr
 gateway.skyscanner.net
 skyscanner.net
 partnerportal.skyscanner.net
-blockexplorer.electroneum.com
-testnet-blockexplorer.electroneum.com
 snapnames.com
 namejet.com
 sophos.com
@@ -2205,13 +2187,6 @@ vtxapp9p.underarmour.com
 vtxapp9q.underarmour.com
 vtxapp9d.underarmour.com
 vtxappd.underarmour.com
-id.unity.com
-api.unity.com
-cloud.unity.com
-store.unity.com
-pay.unity.com
-player-login.unity.com
-unity3d.com
 upwork.com
 api.upwork.com
 usaa.com
@@ -3129,6 +3104,7 @@ trendyol-milla.com
 en.trendyol.com
 staking.consensys.io
 consensys.io
+etherscan.io
 access.app
 stripe.com
 api.bridge.xyz
